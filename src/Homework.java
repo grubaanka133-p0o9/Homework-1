@@ -4,6 +4,7 @@ public class Homework {
         System.out.println("się");
         System.out.println("programowania");
         System.out.println("i\ncommitowania");
+        System.out.println("powtórka");
 
     }
 }
